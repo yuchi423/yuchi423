@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Yuchi — backend engineer and AI enthusiast</title>
+  <desc id="desc">A warm editorial profile banner with Yuchi's role, birthplace, birthday, and student status.</desc>
+  <style>
+    :root {
+      --ivory: #FAF9F5;
+      --slate: #141413;
+      --clay: #D97757;
+      --clay-d: #B85C3E;
+      --oat: #E3DACC;
+      --olive: #788C5D;
+      --white: #FFFFFF;
+      --gray-100: #F0EEE6;
+      --gray-300: #D1CFC5;
+      --gray-500: #87867F;
+      --gray-700: #3D3D3A;
+      --serif: ui-serif, Georgia, "Times New Roman", Times, serif;
+      --sans: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      --mono: ui-monospace, "SF Mono", Menlo, Monaco, Consolas, monospace;
+    }
+    .frame { fill: var(--ivory); stroke: var(--gray-300); stroke-width: 1.5; }
+    .eyebrow { fill: var(--gray-500); font: 12px var(--mono); letter-spacing: 2px; }
+    .title { fill: var(--slate); font-family: var(--serif); font-size: 49px; font-weight: 500; letter-spacing: -1px; }
+    .body { fill: var(--gray-700); font: 17px var(--sans); }
+    .chip { fill: var(--gray-100); stroke: var(--gray-300); stroke-width: 1.5; }
+    .chip-text { fill: var(--gray-700); font: 12px var(--mono); letter-spacing: .6px; }
+    .panel { fill: var(--white); stroke: var(--gray-300); stroke-width: 1.5; }
+    .panel-label { fill: var(--gray-500); font: 11px var(--mono); letter-spacing: 1.4px; }
+    .node-main { fill: var(--clay); }
+    .node-alt { fill: var(--oat); stroke: var(--gray-500); stroke-width: 1.5; }
+    .node-ok { fill: var(--olive); }
+    .connector { fill: none; stroke: var(--gray-300); stroke-width: 2.5; stroke-linecap: round; }
+    .connector-accent { fill: none; stroke: var(--clay); stroke-width: 2.5; stroke-linecap: round; }
+  </style>
+
+  <rect class="frame" x="1" y="1" width="1198" height="418" rx="20" />
+
+  <text class="eyebrow" x="52" y="58">YUCHI423 / README.MD</text>
+  <rect x="52" y="78" width="86" height="4" rx="2" fill="var(--clay)" />
+
+  <text class="title" x="52" y="151">Building reliable systems</text>
+  <text class="title" x="52" y="207">and learning what comes next.</text>
+  <text class="body" x="54" y="257">Backend engineer · AI enthusiast · second-year undergraduate</text>
+
+  <g transform="translate(52 300)">
+    <rect class="chip" width="176" height="34" rx="17" />
+    <text class="chip-text" x="18" y="22">BORN 2007.04.23</text>
+  </g>
+  <g transform="translate(240 300)">
+    <rect class="chip" width="190" height="34" rx="17" />
+    <text class="chip-text" x="18" y="22">GUANGZHOU, CHINA</text>
+  </g>
+  <g transform="translate(442 300)">
+    <rect class="chip" width="102" height="34" rx="17" />
+    <text class="chip-text" x="18" y="22">YEAR 2</text>
+  </g>
+
+  <g transform="translate(805 48)">
+    <rect class="panel" x="0" y="0" width="336" height="324" rx="12" />
+    <text class="panel-label" x="24" y="35">SYSTEM MAP / 01</text>
+
+    <path class="connector" d="M91 103 H168 V161 H243" />
+    <path class="connector" d="M91 103 V236 H168" />
+    <path class="connector-accent" d="M168 236 H243 V161" />
+
+    <circle class="node-main" cx="91" cy="103" r="17" />
+    <circle class="node-alt" cx="168" cy="161" r="17" />
+    <circle class="node-ok" cx="243" cy="161" r="17" />
+    <circle class="node-alt" cx="168" cy="236" r="17" />
+
+    <rect x="70" y="278" width="196" height="1.5" fill="var(--gray-300)" />
+    <text class="panel-label" x="70" y="302">BACKEND · AI · SYSTEMS</text>
+  </g>
+</svg>
+
