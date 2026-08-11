@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=false&pause=100000&lines=Hello%2C+I%27m+yuchi" alt="Hello, I'm yuchi" />
+</div>
+
 # 💫 About Me:
 
 <br><br><br><br>
