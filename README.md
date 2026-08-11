@@ -22,17 +22,3 @@ Hi! I'm a second-year Computer Science undergraduate and an aspiring backend eng
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=yuchi423&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yuchi423&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yuchi423&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=yuchi423&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
